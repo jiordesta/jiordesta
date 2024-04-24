@@ -5,11 +5,14 @@
 Experienced fullstack developer with 3 years in Node.js, Express, ReactJs, MongoDB, and Firebase. Security-focused and adept at crafting scalable
 solutions. Proactive problem solver with a knack for innovation. Ready to contribute to dynamic projects.
 
-💬 "[Message me!][contact]"
+[**`📁Portfolio`**][website]<br />
+[**`📄Resume`**][resume]<br />
+[**`💬Contact`**][contact]<br />
+[**`👔Linkedin`**][linkedin]<br />
 
+#
 
-
-# ⚒️ Languages and Tools
+Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -33,3 +36,4 @@ solutions. Proactive problem solver with a knack for innovation. Ready to contri
 [contact]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQBxLBZcSWgVmrkVCVLmRgDfMpHHvrTQWqcFDfwTTxkfTmCwLjcRqZMQqMCMrMlcmQKMN
 [website]: https://portfolio-v4-lilac.vercel.app/
 [linkedin]: https://www.linkedin.com/in/john-irson-ordesta-130014297/
+[resume]: https://drive.google.com/file/d/1P1u5hw_1oTZR4gJBENNhM8TkqarX6xj4/view 
