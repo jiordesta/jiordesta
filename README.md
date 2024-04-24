@@ -1,16 +1,9 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ John Irson Ordesta
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Fullstack Software Developer`**
 
-Experienced fullstack developer with 3
-years in Node.js, Express, ReactJs,
-
-MongoDB, and Firebase. Security-
-focused and adept at crafting scalable
-
-solutions. Proactive problem solver with
-a knack for innovation. Ready to
-contribute to dynamic projects.
+Experienced fullstack developer with 3 years in Node.js, Express, ReactJs, MongoDB, and Firebase. Security-focused and adept at crafting scalable
+solutions. Proactive problem solver with a knack for innovation. Ready to contribute to dynamic projects.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
