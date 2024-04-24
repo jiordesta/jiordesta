@@ -5,8 +5,8 @@
 Experienced fullstack developer with 3 years in Node.js, Express, ReactJs, MongoDB, and Firebase. Security-focused and adept at crafting scalable
 solutions. Proactive problem solver with a knack for innovation. Ready to contribute to dynamic projects.
 
-# 💬 Socials
-<a href="https://www.youtube.com/c/fknight?sub_confirmation=1"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+💬 "[Message me!][contact]"
+
 
 
 # ⚒️ Languages and Tools
@@ -27,6 +27,9 @@ solutions. Proactive problem solver with a knack for innovation. Ready to contri
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />  
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br />
+
 #
-[website]: https://portfolio-v4-lilac.vercel.app
+
+[contact]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQBxLBZcSWgVmrkVCVLmRgDfMpHHvrTQWqcFDfwTTxkfTmCwLjcRqZMQqMCMrMlcmQKMN
+[website]: https://portfolio-v4-lilac.vercel.app/
 [linkedin]: https://www.linkedin.com/in/john-irson-ordesta-130014297/
