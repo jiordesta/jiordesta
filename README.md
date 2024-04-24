@@ -1,6 +1,6 @@
-# 🏄‍♂️ John Irson Ordesta
+# ⚒️ John Irson Ordesta
 
-**`Fullstack Software Developer`**
+**`I Craft Ideas with Code`**
 
 Experienced fullstack developer with 3 years in Node.js, Express, ReactJs, MongoDB, and Firebase. Security-focused and adept at crafting scalable
 solutions. Proactive problem solver with a knack for innovation. Ready to contribute to dynamic projects.
