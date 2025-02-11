@@ -5,11 +5,6 @@
 Experienced fullstack developer with 3 years in Node.js, Express, ReactJs, MongoDB, and Firebase. Security-focused and adept at crafting scalable
 solutions. Proactive problem solver with a knack for innovation. Ready to contribute to dynamic projects.
 
-[**`📁Portfolio`**][website]<br />
-[**`📄Resume`**][resume]<br />
-[**`💬Contact`**][contact]<br />
-[**`👔Linkedin`**][linkedin]<br />
-
 #
 
 Languages and Tools
