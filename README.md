@@ -44,9 +44,10 @@
 
 ### 📊 Real-Time Repository Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiordesta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c385ff&icon_color=c385ff&text_color=c9d1d9" alt="Irson's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiordesta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c385ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/jiordesta?label=Followers&style=for-the-badge&color=c385ff&logo=github" />
+  <img src="https://img.shields.io/github/stars/jiordesta?label=Total%20Stars&style=for-the-badge&color=646CFF&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-300%2B%20This%20Year-339933?style=for-the-badge&logo=github" />
 </p>
 
 ---
