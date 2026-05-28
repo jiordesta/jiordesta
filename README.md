@@ -1,34 +1,61 @@
-# 🧑🏻‍💻 John Irson Ordesta
+# 👋 Hello World, I'm Irson! 
 
-**`I Craft Ideas with Code`**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jiordesta&color=c385ff&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-Experienced fullstack developer with 3 years in Node.js, Express, ReactJs, MongoDB, and Firebase. Security-focused and adept at crafting scalable
-solutions. Proactive problem solver with a knack for innovation. Ready to contribute to dynamic projects.
+> **Fullstack Developer & Automation Builder**
+> I bridge the gap between complex backend architectures and highly intuitive, offline-first user interfaces. Driven by scripting efficiency, clean types, and structural problem-solving.
 
-#
+---
 
-Languages and Tools
+### 🚀 What I'm Energized By Right Now
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />   
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/> 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />  
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<br />
+* 🛠️ **Robust Architecture:** Engineering clean NestJS dependency structures paired with type-safe database schemas via Prisma ORM.
+* 📦 **Offline-First Web ecosystems:** Building out blazing fast web platforms using React + Vite, fully configured with custom Progressive Web App (PWA) asset caching.
+* 📱 **Mobile Performance:** Tinkering with cross-platform interfaces via Expo / React Native and streamlined EAS workflow tools.
+* 🤖 **Process Automation:** Creating background script handlers and custom programmatic pipelines to simplify day-to-day data and retail logistics tracking.
 
-#
+---
 
-[contact]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQBxLBZcSWgVmrkVCVLmRgDfMpHHvrTQWqcFDfwTTxkfTmCwLjcRqZMQqMCMrMlcmQKMN
-[website]: https://portfolio-v4-lilac.vercel.app/
-[linkedin]: https://www.linkedin.com/in/john-irson-ordesta-130014297/
-[resume]: https://drive.google.com/file/d/1P1u5hw_1oTZR4gJBENNhM8TkqarX6xj4/view 
+### 💻 Core Technology Stack Layout
+
+<h4 align="left">Languages & Frameworks</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+<h4 align="left">Data & Infrastructure Platforms</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+---
+
+### 📊 Real-Time Repository Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiordesta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c385ff&icon_color=c385ff&text_color=c9d1d9" alt="Irson's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiordesta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c385ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### ⚡ Fun Architectural Facts
+* My deployment configurations run on strict pipeline rules: **`npm install && npx prisma generate && npm run build`** or bust.
+* I deal with runtime network issues layout errors by parsing differences between browser connection cuts, slow data timeouts, and absolute server hardware drops.
+* When I build prototypes, I'd rather spin up instant Expo Go streams over messing with local simulator dependencies all afternoon.
+
+<p align="center">
+  🧑‍💻 <i>Crafting clean code structures, processing precise inputs, and minimizing API overhead.</i>
+</p>
