@@ -1,21 +1,28 @@
-# 👋 Hello World, I'm Irson! 
+# 👋 Hello World, I'm John Irson Ordesta! 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jiordesta&color=c385ff&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Tanza,%20Cavite,%20PH-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-> **Fullstack Developer & Automation Builder**
-> I bridge the gap between complex backend architectures and highly intuitive, offline-first user interfaces. Driven by scripting efficiency, clean types, and structural problem-solving.
+> **Full-Stack Software Engineer** > I build production-grade SaaS features, resilient internal business frameworks, and offline-first mobile and desktop applications. Focused on type safety, custom automation scripting, and clean query architecture.
 
 ---
 
-### 🚀 What I'm Energized By Right Now
+### 📊 Real-Time Repository Analytics
+<p align="center">
+  <img src="https://gh-stats.com/api?username=jiordesta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c385ff&icon_color=c385ff&text_color=c9d1d9" alt="Irson's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiordesta&theme=dark&hide_border=true&background=0d1117&ring=c385ff&fire=c385ff&title=c385ff" alt="GitHub Streak Stats" width="48%" />
+</p>
 
-* 🛠️ **Robust Architecture:** Engineering clean NestJS dependency structures paired with type-safe database schemas via Prisma ORM.
-* 📦 **Offline-First Web ecosystems:** Building out blazing fast web platforms using React + Vite, fully configured with custom Progressive Web App (PWA) asset caching.
-* 📱 **Mobile Performance:** Tinkering with cross-platform interfaces via Expo / React Native and streamlined EAS workflow tools.
-* 🤖 **Process Automation:** Creating background script handlers and custom programmatic pipelines to simplify day-to-day data and retail logistics tracking.
+---
+
+### 🚀 Engineering Scope
+
+* 🛠️ **Full-Stack Systems:** Designing and deploying complete applications from scratch—from relational schema definitions (PostgreSQL + Prisma) to modular NestJS REST APIs and Next.js/Tailwind dashboard interfaces.
+* 📦 **Offline-First Web Frameworks:** Implementing optimized frontend caching networks utilizing Progressive Web App (PWA) asset management systems in React + Vite environments.
+* 📱 **Mobile Ecosystems:** Crafting nimble local interface prototypes with React Native and Expo Go, backed by cloud compilation workflows (EAS Build).
+* ⚙️ **Workflow Automation:** Writing programmatic utility tools (PowerShell/Shell script environments) to streamline onboarding velocity, automate asset pipelines, and reduce deployment variability.
 
 ---
 
@@ -23,12 +30,12 @@
 
 <h4 align="left">Languages & Frameworks</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <h4 align="left">Data & Infrastructure Platforms</h4>
@@ -42,21 +49,11 @@
 
 ---
 
-### 📊 Real-Time Repository Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/jiordesta?label=Followers&style=for-the-badge&color=c385ff&logo=github" />
-  <img src="https://img.shields.io/github/stars/jiordesta?label=Total%20Stars&style=for-the-badge&color=646CFF&logo=github" />
-  <img src="https://img.shields.io/badge/Contributions-300%2B%20This%20Year-339933?style=for-the-badge&logo=github" />
-</p>
-
----
-
-### ⚡ Fun Architectural Facts
-* My deployment configurations run on strict pipeline rules: **`npm install && npx prisma generate && npm run build`** or bust.
-* I deal with runtime network issues layout errors by parsing differences between browser connection cuts, slow data timeouts, and absolute server hardware drops.
-* When I build prototypes, I'd rather spin up instant Expo Go streams over messing with local simulator dependencies all afternoon.
+### ⚡ Architectural Directives
+* **No Broken Migrations:** I handle production platform workflows using a strictly sequenced blueprint: `npm install && npx prisma generate && npm run build && npx prisma migrate deploy`.
+* **Bulletproof Try-Catch Blocks:** My API data pipelines separate physical client link breaks (`navigator.onLine`) from slow-network request drops and complete server architecture timeouts.
+* **Background Research Interest:** Academically grounded in Computer Science (BSCS) with deep practical exploration into Deep Reinforcement Learning, Generative AI engineering, and automation engines.
 
 <p align="center">
-  🧑‍💻 <i>Crafting clean code structures, processing precise inputs, and minimizing API overhead.</i>
+  🧑‍💻 <i>Building clean data structures, optimizing relational queries, and removing engineering friction.</i>
 </p>
